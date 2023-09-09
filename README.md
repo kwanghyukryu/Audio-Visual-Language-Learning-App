@@ -6,8 +6,8 @@ In this project, I will be developing an audio-visual Language Learning app for 
 
 The application has 3 parts:
 
-Learn. Images are shown to the user while listening to the audio. By pressing Enter, the user can listen to words and see their corresponding image.
+Learn- Images are shown to the user while listening to the audio. By pressing Enter, the user can listen to words and see their corresponding image.
 
-Play. The application will play the audio for a word, then show the user images of several items, possibly overlapped. Then it will ask the user to count how many of the images corresponding to the spoken word they see. The user will enter a number, and will be informed if their answer (i.e. their count) is correct or not.
+Play- The application will play the audio for a word, then show the user images of several items, possibly overlapped. Then it will ask the user to count how many of the images corresponding to the spoken word they see. The user will enter a number, and will be informed if their answer (i.e. their count) is correct or not.
 
-Settings. By default, the user learns 3 words, but the user can add more words to learn and play with as they progress.
+Settings- By default, the user learns 3 words, but the user can add more words to learn and play with as they progress.
