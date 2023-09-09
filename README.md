@@ -1,7 +1,5 @@
-### cmpt120_final Project
+### Audio Visual Language Learning App for Blackfoot 
 Contributor- Tony Wu
-
-Final Project - Audio Visual Language Learning App for Blackfoot 
 
 
 In this project, I will be developing an audio-visual Language Learning app for the endangered Canadian Indigenous language, Blackfoot. This language has an oral tradition, and therefore this app will show images to the user while playing audio, to help them associate word sounds to objects such as apples, child, etc. This project is a collaboration with Dr. Eldon Yellowhorn in the Indigenous Studies Department, and the Peigan Board of Education in Lethbridge, Alberta.
